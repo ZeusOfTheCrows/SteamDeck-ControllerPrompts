@@ -3,8 +3,8 @@
 	/* Button Icons. If you want to use the default then use the default steamglyph image path or just delete the variable*/
 
 	--ICPAButtonImage: url("/themes_custom/Icon Packer/Icon Sets/DS3 Icons/icons/32px/shared_button_x.svg");
-	--ICPXButtonImage: url("/themes_custom/Icon Packer/Icon Sets/DS3 Icons/icons/32px/shared_button_t.svg");
-	--ICPYButtonImage: url("/themes_custom/Icon Packer/Icon Sets/DS3 Icons/icons/32px/shared_button_s.svg");
+	--ICPXButtonImage: url("/themes_custom/Icon Packer/Icon Sets/DS3 Icons/icons/32px/shared_button_s.svg");
+	--ICPYButtonImage: url("/themes_custom/Icon Packer/Icon Sets/DS3 Icons/icons/32px/shared_button_t.svg");
 	--ICPBButtonImage: url("/themes_custom/Icon Packer/Icon Sets/DS3 Icons/icons/32px/shared_button_o.svg");
 	--ICPMenuButtonImage: url("/themes_custom/Icon Packer/Icon Sets/DS3 Icons/icons/32px/sd_button_start.svg");
 	--ICPViewButtonImage: url("/themes_custom/Icon Packer/Icon Sets/DS3 Icons/icons/32px/sd_button_select.svg");
